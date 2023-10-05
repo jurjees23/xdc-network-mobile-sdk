@@ -1,0 +1,7 @@
+{
+  "name": "XdcNetworkMobileSdkExample",
+  "displayName": "XdcNetworkMobileSdkExample",
+  "ios": {
+    "bundleIdentifier": "network.xdc.example.XdcNetworkMobileSdkExample"
+  }
+}
