@@ -14,7 +14,7 @@ import { useEffect, useState } from 'react';
 import {
   getAccountPhrase,
   permanentlyDeleteAccount,
-} from '@xdc-network/mobile-sdk';
+} from 'xdcnetwork-mobilesdk';
 import { XdcCard } from './components/XdcCard';
 import { LoadingModal, StandardModal } from './components/LoadingModal';
 import { PrivateConfig } from './private_config';

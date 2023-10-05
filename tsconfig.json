@@ -2,7 +2,7 @@
   "compilerOptions": {
     "baseUrl": "./",
     "paths": {
-      "@xdc-network/mobile-sdk": [
+      "xdcnetwork-mobilesdk": [
         "./src/index"
       ]
     },

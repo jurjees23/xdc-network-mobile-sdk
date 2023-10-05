@@ -5,7 +5,7 @@ import {
   createAccount,
   getAccount,
   importExistingAccount,
-} from '@xdc-network/mobile-sdk';
+} from 'xdcnetwork-mobilesdk';
 import { AccountOverviewScreen } from './AccountOverviewScreen';
 import { GenerateAccountScreen } from './GenerateAccountScreen';
 import { LoadingScreen } from './LoadingScreen';
